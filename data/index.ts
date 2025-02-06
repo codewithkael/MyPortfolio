@@ -28,8 +28,8 @@ export const gridItems = [
   },
   {
     id: 3,
-    title: "My tech stack",
-    description: "I constantly try to improve",
+    title: "My Tech Stack",
+    description: "expertise spans backend, Android, and frontend technologies is",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Delivering Scalable Real-Time Communication Solutions for Leading Enterprises",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -107,33 +107,27 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+        "Masoud's expertise in real-time communication technologies transformed our platform. His innovative approach and commitment to excellence were instrumental in delivering a solution that exceeded our expectations.",
+    name: "Carolina Leon",
+    title: "Director of Marketing at LiveNinja",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+        "Working with Masoud was a game-changer for our project. His deep understanding of WebRTC and Android development enabled us to create a seamless and scalable application that has significantly enhanced our user experience.",
+    name: "Aamir Jaffar",
+    title: "CEO at Kingdom of Saudi Arabia",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+        "Masoud's dedication and technical prowess were evident throughout our collaboration. He played a pivotal role in developing a robust and efficient solution that has greatly benefited our operations.",
+    name: "Douglas Laver",
+    title: "CEO at Australia",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+        "Masoud's professionalism and technical expertise were key to the success of our project. His ability to deliver high-quality solutions on time and within budget was truly impressive.",
+    name: "Philip",
+    title: "CEO at United Kingdom",
   },
 ];
 
@@ -205,13 +199,17 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/codewithkael",  // Replace with your GitHub URL
   },
   {
     id: 2,
     img: "/twit.svg",
+    link: "https://twitter.com/codewithkael",  // Replace with your Twitter URL
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/Masoud-Sarabadani",  // Replace with your LinkedIn URL
   },
 ];
+
